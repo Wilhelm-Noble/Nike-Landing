@@ -1,8 +1,9 @@
-# React + Vite
+# Nike Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+I made this to practice my Tailwind skills, in which was the least of my problems into my onboarding process,
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Now I need to learn a lot more, which is burning me out but then, I promised God that If I ever had work again I'll excel on it, Now here I am with months to burn with my coding Passion
+
+
+Wish me luck self, Only you can do this
